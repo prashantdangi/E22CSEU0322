@@ -7,7 +7,12 @@ npm i
 npm start
 ```
 
-3. For average_calculator_microservice
+2. For average_calculator_microservice
+
+>average_calculator_microservice
+>>server.js\
+>>1_response\
+>>2_response
 
 ```
 npm init -y
