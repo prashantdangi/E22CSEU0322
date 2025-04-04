@@ -1,8 +1,13 @@
 # E22CSEU0322
 
+1. For social-media-analytics
 
+```
+npm i
+npm start
+```
 
-2. For average_calculator_microservice
+3. For average_calculator_microservice
 
 ```
 npm init -y
