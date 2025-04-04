@@ -2,6 +2,11 @@
 
 1. For social-media-analytics
 
+>social-media-analystics
+>>✅users\
+>>✅post_user\
+>>✅comments_posts\
+
 ```
 npm i
 npm start
@@ -10,9 +15,9 @@ npm start
 2. For average_calculator_microservice
 
 >average_calculator_microservice
->>server.js\
->>1_response\
->>2_response
+>>🚀server.js\
+>>✅1_response\
+>>✅2_response
 
 ```
 npm init -y
