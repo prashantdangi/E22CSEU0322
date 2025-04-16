@@ -17,7 +17,7 @@ const numberStorage = {
   r: []  // random numbers
 };
 
-// Set up timestamp tracking for FIFO replacement
+// FIFO
 const timestampTracker = {
   p: [],
   f: [],
